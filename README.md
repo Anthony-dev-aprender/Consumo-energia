@@ -38,7 +38,7 @@ Resultado em quilowatt-hora (kWh)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Energia](https://img.shields.io/badge/Energia-Elétrica-yellow?style=for-the-badge&logo=lightning&logoColor=black)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
 
 
 
