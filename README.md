@@ -17,7 +17,7 @@ Cálculo automático do consumo mensal (kWh)
 
 Estimativa de custo mensal (opcional)
 
-#Fórmula utilizada
+# Fórmula utilizada
 
 O cálculo do consumo mensal é feito com base na seguinte fórmula:
 
