@@ -23,7 +23,7 @@ O cálculo do consumo mensal é feito com base na seguinte fórmula:
 
 consumoMensal = (potencia * horasDia * 30) / 1000
 
-#Onde:
+# Onde:
 
 Potência em watts (W)
 
@@ -31,7 +31,7 @@ Tempo de uso diário em horas
 
 Resultado em quilowatt-hora (kWh)
 
-#Tecnologias utilizadas
+# Tecnologias utilizadas
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,7 +42,7 @@ Resultado em quilowatt-hora (kWh)
 
 
 
-#Como executar o projeto
+# Como executar o projeto
 
 Clone este repositório:
 
@@ -63,13 +63,13 @@ Digite as horas de uso por dia: 10
 Aparelho: Geladeira
 Consumo estimado: 45 kWh/mês
 Custo estimado: R$ 33,75
-#Estrutura do projeto
+# Estrutura do projeto
 consumo-energia/
 │
 ├── app.py
 └── README.md
 
-#Autor
+# Autor
 
 Desenvolvido por Anthony Reis Rosa Pereira 👨‍💻
 Projeto acadêmico de iniciação em tecnologia.
