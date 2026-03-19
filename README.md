@@ -68,5 +68,6 @@ Custo estimado: R$ 33,75
 
 # Autor
 
-Desenvolvido por Anthony Reis Rosa Pereira 👨‍💻
+Desenvolvido por Anthony Reis Rosa Pereira 
 Projeto acadêmico de iniciação em tecnologia.
+Email: anthonyreis1503@gmail.com
