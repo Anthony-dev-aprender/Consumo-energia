@@ -60,22 +60,9 @@ Digite o nome do aparelho: Geladeira
 Digite a potência (W): 150
 Digite as horas de uso por dia: 10
 
-Aparelho: Geladeira
-
-Consumo estimado: 45 kWh/mês
-
-Custo estimado: R$ 33,75
-
- Estrutura do projeto
- 
-consumo-energia/
-
-│
-
-├── app.py
-
-└── README.md
-
+Aparelho: Geladeira - 
+Consumo estimado: 45 kWh/mês - 
+Custo estimado: R$ 33,75 - 
 
 # Autor
 
