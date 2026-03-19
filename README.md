@@ -37,7 +37,7 @@ Resultado em quilowatt-hora (kWh)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Energia](https://img.shields.io/badge/Energia-Elétrica-yellow?style=for-the-badge&logo=lightning&logoColor=black)
+![Energia](https://img.shields.io/badge/Energia-yellow?style=for-the-badge&logo=lightning&logoColor=black)
 
 
 
