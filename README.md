@@ -57,7 +57,9 @@ Execute o programa:
 python app.py
 Exemplo de uso:
 Digite o nome do aparelho: Geladeira
+
 Digite a potência (W): 150
+
 Digite as horas de uso por dia: 10
 
 Aparelho: Geladeira - 
