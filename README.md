@@ -1,11 +1,11 @@
 # Consumo-energia
 Calculadora de Consumo de Energia
 
-Este projeto é uma aplicação simples em Python que permite calcular o consumo mensal de energia elétrica de um aparelho, com base na sua potência e no tempo de uso diário.
+Este projeto é uma aplicação simples em Python que permite calcular a energia elétrica e preço mensal do consumo deste aparelho, com base na sua potência e no tempo de uso diário.
 
-O objetivo é ajudar usuários a entenderem melhor o gasto de energia e estimarem possíveis custos na conta de luz 💡
+O objetivo é ajudar usuários a entenderem melhor o gasto de energia e estimarem possíveis custos na conta de luz.
 
-Funcionalidades
+Funcionalidades:
 
 Entrada do nome do aparelho
 
@@ -15,7 +15,7 @@ Entrada do tempo de uso diário (em horas)
 
 Cálculo automático do consumo mensal (kWh)
 
-Estimativa de custo mensal (opcional)
+Estimativa de custo mensal (por kWh)
 
 # Fórmula utilizada
 
@@ -30,6 +30,11 @@ Potência em watts (W)
 Tempo de uso diário em horas
 
 Resultado em quilowatt-hora (kWh)
+
+
+O cálculo do preço do consumo foi feito com a formula:
+
+precoDoAparelho = (consumoMensal * 0.75)
 
 # Tecnologias utilizadas
 
