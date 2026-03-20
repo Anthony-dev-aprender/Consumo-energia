@@ -6,7 +6,7 @@ consumoMensal = (watts * horasDia * 30) / 1000
 print(f"Aparelho: {aparelho}")
 print(f"Consumo estimado: {consumoMensal:.2f} kWh/mês")
 
-resposta = input("Você gostaria saber o preço por consumo? (s/n): ")
+resposta = input("Você gostaria saber o preço do consumo? (s/n): ")
 
 if resposta == "s":
     print("Calculando o preço...")
