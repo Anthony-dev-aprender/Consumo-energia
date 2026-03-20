@@ -23,6 +23,10 @@ O cálculo do consumo mensal é feito com base na seguinte fórmula:
 
 consumoMensal = (potencia * horasDia * 30) / 1000
 
+O cálculo do preço do consumo foi feito com a formula:
+
+precoDoAparelho = (consumoMensal * 0.75)
+
 # Onde:
 
 Potência em watts (W)
@@ -30,11 +34,6 @@ Potência em watts (W)
 Tempo de uso diário em horas
 
 Resultado em quilowatt-hora (kWh)
-
-
-O cálculo do preço do consumo foi feito com a formula:
-
-precoDoAparelho = (consumoMensal * 0.75)
 
 # Tecnologias utilizadas
 
